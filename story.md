@@ -1,3 +1,5 @@
 # The Chronology of Aethelgard
 
 In the clockwork city of Aethelgard, time did not flow in a straight line; it branched. The Great Archivist sat before a terminal of glowing brass, monitoring the "Main" timeline for signs of instability. Whenever a citizen made a catastrophic choice, the Archivist would perform a git checkout to a previous epoch, pulling the soul of the city back to a state of grace before the error had manifested in the physical realm.
+
+To the commoners, these shifts were felt only as a momentary shiver—a sense of déjà vu that passed as quickly as a summer breeze. They did not know that their very existence was a series of commits, carefully staged by a silent guardian. The Archivist practiced a strict philosophy of atomic changes, ensuring that no single day held more weight than it could support, fearing that a bloated history would eventually lead to a terminal corruption of their reality.
